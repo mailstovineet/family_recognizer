@@ -1,0 +1,7 @@
+.line{
+    color:black;
+    width:100%;
+}
+body{
+    background:linear-gradient(to top right, black,gray,blue,white)
+}
